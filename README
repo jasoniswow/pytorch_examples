@@ -1,0 +1,9 @@
+"simple_example_*.py": the coding level is higher as the number goes larger.
+
+"simple_example6_multiClass.py" is a good example for multi-classes classification
+
+"example_denseNet.py" is a sophisticated example
+
+"blackboxes.py" contains different loss function and optimizations
+
+
